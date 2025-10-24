@@ -1,4 +1,5 @@
-# O EcoSwap é um site em PHP, CSS e JavaScript criado para incentivar a sustentabilidade universitária, permitindo que alunos troquem, vendam ou doem objetos reutilizados (upcycled).
+# O EcoSwap
+é um site em PHP, CSS e JavaScript criado para incentivar a sustentabilidade universitária, permitindo que alunos troquem, vendam ou doem objetos reutilizados (upcycled).
 
 🧩 Funcionalidades
 
